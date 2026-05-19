@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.wallswitch"
+          path="/org/gnome/shell/extensions/wallswitch/">
+
+    <key name="show-search" type="b">
+      <default>true</default>
+    </key>
+
+    <key name="show-numbers" type="b">
+      <default>true</default>
+    </key>
+
+    <key name="number-count" type="i">
+      <default>5</default>
+      <range min="1" max="5"/>
+    </key>
+
+    <key name="per-workspace" type="b">
+      <default>false</default>
+    </key>
+
+  </schema>
+</schemalist>

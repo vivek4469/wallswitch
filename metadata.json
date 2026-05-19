@@ -1,0 +1,8 @@
+{
+  "uuid": "wallswitch@blackhound",
+  "name": "Wallswitch",
+  "description": "Quick wallpaper switcher for GNOME top bar",
+  "shell-version": ["46", "47", "48", "49", "50"],
+  "url": "https://github.com/BLACKHOUND/Wallswitch",
+  "settings-schema": "org.gnome.shell.extensions.wallswitch"
+}
